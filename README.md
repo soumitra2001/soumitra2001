@@ -1,4 +1,4 @@
-<img src="https://media.wired.com/photos/593371bf283bfc394dcbf689/master/w_2560%2Cc_limit/socialite.jpg" width="930" height="500">
+<img src="preview.jpg" width="930" height="500">
 
 <h1 align="center">Hi 👋, I'm Supriya Ghorai</h1>
 <h3>🥰 A passionate software engineer with expertise in Java, Spring Boot, Git & GitHub, Data Structures and Algorithms, and problem-solving.
