@@ -1,6 +1,6 @@
 <img src="preview.jpg" width="930" height="430">
 
-<h1 align="center">Hi 👋, I'm Supriya Ghorai</h1>
+<h1 align="center"><img src="github_add.gif" width="30" height="30"> Hi 👋, I'm Supriya Ghorai <img src="github_add.gif" width="30" height="30"></h1>
 <h3>🥰 A passionate software engineer with expertise in Java, Spring Boot, Git & GitHub, Data Structures and Algorithms, and problem-solving.
 
 💻 With a solid foundation in Java and Spring Boot, I have developed robust and scalable applications.</h3>
