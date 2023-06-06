@@ -32,7 +32,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api?username=soumitra2001&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/all-langs/?username=soumitra2001&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumitra2001&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=soumitra2001&theme=vue-dark&hide_border=true" />
 </p>
 
