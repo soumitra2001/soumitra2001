@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="profile.gif" width="350" height="250">
 🔭 I’m currently working on ChatGPT API Integration using Spring Boot<br>👯 I’m looking to collaborate on projects involving Java, SpringBoot, Hibernate<br>🤝 I’m looking for help with open-source projects to collaborate on and make a positive impact on the developer community<br>🌱 I’m currently learning AWS, Terraform<br>💬 Ask me about DSA and Core Java<br>📫 How to reach me --> supriyagro2001@gmail.com     
 
-📄[Resume](https://docs.google.com/document/d/1QTSawKDm6fafb6e7wg7fQugSjbwNF0lH1yL2YuiBSUY/edit?usp=sharing)
+📄[Resume](https://drive.google.com/file/d/19UxTzytKKqyouixGwDkyF92mgU-LeMKD/view?usp=drive_link)
 
 
 ## Connect with me:
