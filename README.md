@@ -6,7 +6,7 @@
 
 <h3>🥰 A passionate software engineer with expertise in Java, Spring Boot, Git & GitHub, Data Structures and Algorithms, and problem-solving.
 
-💻 With a solid foundation in Java and Spring Boot, I have developed robust and scalable applications.</h3>
+💻 With a solid foundation in Java and Spring Boot, I have developed robust and scalable applications. </h3>
 
 <hr>
 <img align="right" alt="GIF" src="profile.gif" width="350" height="250">
@@ -49,3 +49,5 @@
 [![](https://visitcount.itsvg.in/api?id=soumitra2001&icon=7&color=1)](https://visitcount.itsvg.in)
 
 [dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=soumitra2001&repo=Array_Problems&cache_seconds=86400&theme=dark
+
+[![An image of @soumitra2001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/soumitra2001)](https://holopin.io/@soumitra2001)
