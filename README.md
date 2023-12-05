@@ -1,4 +1,4 @@
-<img src="preview.jpg" width="930" height="430">
+<img src="preview.jpg" width="930" height="400">
 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Supriya+Ghorai)
